@@ -1,0 +1,192 @@
+[
+   {
+    "city": "port_Varna",
+    "cityBG": "Порт Варна",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1604129784483-ba62c3445c88?q=80&w=3306&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 43.19290, "lng": 27.92119},
+    "zone": "North",
+    "updatedAt": null
+  },
+   {
+    "city": "balchik",
+    "cityBG": "Балчик",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1590170535044-9bc41045df63?q=80&w=2124&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 43.402, "lng": 28.166 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "kranevo",
+    "cityBG": "Кранево",
+    "forecast": {},
+    "img": "https://www.bulgariaholidays.net/uploads/hotels/Hotel_Terma_Eco_Kranevo594.jpg",
+    "gps": { "lat": 43.344, "lng": 28.070 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "golden_Sands",
+    "cityBG": "Златни пясъци",
+    "forecast": {},
+    "img": "https://i.pinimg.com/originals/e3/7b/dd/e37bddb54084e1e1f0e42b20eeb3f4c2.jpg",
+    "gps": { "lat": 43.301, "lng": 28.053 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "sv_sv_Konstantin_Elena",
+    "cityBG": "Дружба",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1653656894900-7ff28de9953f?q=80&w=2181&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 43.226, "lng": 28.015 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "trakata",
+    "cityBG": "Траката",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1628193762194-c5b9bcc789fb?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 43.217, "lng": 27.980 },
+    "zone": "North",
+    "updatedAt": null
+  },
+
+  {
+    "city": "asparuhovo",
+    "cityBG": "Аспарухово",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1589315256873-a4c3c4ddb722?q=80&w=1484&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 43.174, "lng": 27.918 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "kamchia",
+    "cityBG": "Камчия",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1590170550926-f3b8b0539147?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 43.023, "lng": 27.889 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "shkorpilovtsi",
+    "cityBG": "Шкорпиловци",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1559331564-8a7d0d56c20f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.962, "lng": 27.896 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "obzor",
+    "cityBG": "Обзор",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1581278883266-095fed01bd11?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.823, "lng": 27.884 },
+    "zone": "North",
+    "updatedAt": null
+  },
+  {
+    "city": "emona",
+    "cityBG": "Емона",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1732803340524-5d0809eaebbe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.701, "lng": 27.900 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "nessebar",
+    "cityBG": "Несебър",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1683653412745-482fd7d546a9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.657, "lng": 27.725 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "pomorie",
+    "cityBG": "Поморие",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1622062540740-e9293076b8f3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.551, "lng": 27.639 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "burgas",
+    "cityBG": "Бургас",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1646911737452-7f3a26f99a81?q=80&w=1325&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.482, "lng": 27.483 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "chernomorets",
+    "cityBG": "Черноморец",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1686318591060-c9ea73937b1c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.449, "lng": 27.640 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "sozopol",
+    "cityBG": "Созопол",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1601152888642-f2f1b5ee0ca2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.425, "lng": 27.700 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "primorsko",
+    "cityBG": "Приморско",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1558599392-4d657972ae79?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.263, "lng": 27.758 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "tsarevo",
+    "cityBG": "Царево",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1714029707840-7fbc684c0057?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.170, "lng": 27.859 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "ahtopol",
+    "cityBG": "Ахтопол",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1586360900298-ea8126b04693?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.100, "lng": 27.942 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "sinemorets",
+    "cityBG": "Синеморец",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1639517057659-b28f14b2720d?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 42.060, "lng": 27.992 },
+    "zone": "South",
+    "updatedAt": null
+  },
+  {
+    "city": "rezovo",
+    "cityBG": "Резово",
+    "forecast": {},
+    "img": "https://images.unsplash.com/photo-1751350915511-2b41a3f15715?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "gps": { "lat": 41.987, "lng": 28.034 },
+    "zone": "South",
+    "updatedAt": null
+  }
+]
