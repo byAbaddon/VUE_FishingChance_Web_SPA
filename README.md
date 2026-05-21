@@ -1,5 +1,8 @@
 # VUE_FishingChance_Web_SPA
 # Fishing-Chance
+#### video intro: https://www.youtube.com/watch?v=BeG5CTGwZWI
+## Using: vue3 composition vuex-pinia and vuetify 3.0
+## Support phone responsibility.
 
 Fishing Chance is a modern web platform for sea fishing in the Black Sea, designed with a focus on practical use and everyday functionality for anglers. The project combines an interactive dashboard, real-time data visualization, and a custom algorithm for calculating fishing success probability and activity levels of different marine species.
 
