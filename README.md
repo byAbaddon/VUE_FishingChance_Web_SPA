@@ -1,5 +1,5 @@
 # VUE_FishingChance_Web_SPA
-# fishing-chance
+# Fishing-Chance
 
 Fishing Chance is a modern web platform for sea fishing in the Black Sea, designed with a focus on practical use and everyday functionality for anglers. The project combines an interactive dashboard, real-time data visualization, and a custom algorithm for calculating fishing success probability and activity levels of different marine species.
 
