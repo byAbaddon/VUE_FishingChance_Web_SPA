@@ -5,7 +5,7 @@
 <img width="3429" height="1266" alt="wiki" src="https://github.com/user-attachments/assets/1b99cc92-db10-4ca7-a99d-a609950bbe72" />
 <img width="1971" height="1251" alt="about" src="https://github.com/user-attachments/assets/45afca9c-4a4f-4d9d-8299-0e15e12e6338" />
 
-#### site prewiev: fishingforecast-f8942.web.app
+#### site prewiev: https://fishingforecast-f8942.web.app
 #### video intro: https://www.youtube.com/watch?v=BeG5CTGwZWI
 ## Using: vue3 composition vuex-pinia and vuetify 3.0
 ## Support phone responsibility.
